@@ -18,7 +18,7 @@ public class questao03 {
         if (linha * coluna < tamanhoString) {
             linha = coluna;
         }
-
+        //conjunto de caracteres
         char letras[][] = new char[linha][coluna];
 
         //Conversão da string para o formato grid

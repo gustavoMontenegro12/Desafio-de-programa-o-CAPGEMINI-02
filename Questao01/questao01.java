@@ -29,7 +29,8 @@ public class questao01 {
         
         //variavel será atribuida com o valor de soma divido pelo numero do tamanho do array
         int div = soma / arr.size();
-
+        
+        //o resultado é impresso aqui
         System.out.println("\nResultado da divisão: " + div);
         
     }

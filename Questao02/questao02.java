@@ -33,6 +33,7 @@ public class questao02 {
             }
 
         }
+        //o resultado da verificação é impresso aqui
         System.out.println("Resultado: Há " + x + " pares nesta lista.");
     }
 }
