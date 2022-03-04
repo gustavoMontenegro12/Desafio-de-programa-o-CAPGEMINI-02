@@ -2,6 +2,9 @@ package Questao02;
 
 import java.util.ArrayList;
 
+//Exercicio proposto pelo Desafio de programação CAPGEMINI 02 - Questão 02
+
+
 public class questao02 {
     public static void main(String[] args) {
         ArrayList<Integer> n = new ArrayList<>();

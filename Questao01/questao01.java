@@ -2,6 +2,8 @@ package Questao01;
 
 import java.util.ArrayList;
 
+//Exercicio proposto pelo Desafio de programação CAPGEMINI 02 - Questão 01 
+
 public class questao01 {
     public static void main(String[] args) {
        
